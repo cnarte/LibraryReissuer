@@ -1,5 +1,5 @@
-# LibraryReissuer
-  This is an application to reissue the books which have reached its due date.
+# LibraryReissuer 
+  This is an application to reissue the books which have reached its due date automatically.
   
 ## Features
 * No Clicks required: Provide username(reg no.) and password in Terminal and get rid of unnecessary clicks.
